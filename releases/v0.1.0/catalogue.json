@@ -1,0 +1,23 @@
+{
+  "records" : [
+    {
+      "aliases" : [
+        "303"
+      ],
+      "brandIdentifier" : "zipp",
+      "brandName" : "Zipp",
+      "category" : "wheelset",
+      "identifier" : "catalogue.product.zipp.wheelset.303 firecrest",
+      "lifecycle" : "current",
+      "modelName" : "303 Firecrest",
+      "productFamily" : "303 Firecrest",
+      "source" : {
+        "reviewedAt" : "2026-08-10T19:15:23Z",
+        "reviewer" : "Mark McLachlan",
+        "title" : "Zipp 303 Firecrest",
+        "url" : "https://www.sram.com/en/zipp"
+      }
+    }
+  ],
+  "schemaVersion" : 1
+}
