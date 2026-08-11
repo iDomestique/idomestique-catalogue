@@ -1,0 +1,1 @@
+CP.4 controlled rollback to the approved v0.1.0 catalogue to prove physical-device recovery
