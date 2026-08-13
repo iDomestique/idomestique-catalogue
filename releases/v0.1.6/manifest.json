@@ -1,0 +1,11 @@
+{
+  "catalogueSHA256" : "e135d2af9625753358865e22622e22d10d46d515b5dd948fc9b55187916c2633",
+  "catalogueVersion" : "0.1.6",
+  "createdAt" : "2026-08-13T19:08:58Z",
+  "publicKeyBase64" : "7oL0bOwzUi0sMe6JGF1y94OGdybSMGb1N39fkzmoozU=",
+  "recordCount" : 2,
+  "reviewer" : "Mark McLachlan",
+  "schemaVersion" : 1,
+  "signatureBase64" : "J/43UOdkWG1/8+cTOk5yXsMbQrKxjdNe+aEkGugjyU8NrPHoAA/b3HEImKcPSKR1QKHSda/AIyH4mTrGvBSVCA==",
+  "sourceEvidenceCount" : 2
+}

@@ -1,0 +1,1 @@
+Controlled rollback of the CP.7 proof release. Restores the reviewed v0.1.4 catalogue and removes the temporary Shimano GRX Tubeless Carbon Wheel Rear component.
